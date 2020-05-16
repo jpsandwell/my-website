@@ -4,6 +4,7 @@ This is a really awesome website
 
 Update on a master on GitHub before rebase.
 
-## Purpose
+## Repository Purpose
 
-This will cause issues.
+
+
